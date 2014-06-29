@@ -13,6 +13,6 @@ Mandatory parameters:
 
 Examples:
 
-`Deploy-SPSolution -SolutionFileName "Test.wsp" -WebAppUrl "http:\\testwebapp.com
+`Deploy-SPSolution -SolutionFileName "Test.wsp" -WebAppUrl "http:\\testwebapp.com`
 
-Deploy-SPSolution -SolutionFileName "Test.wsp" -WebAppUrl "http:\\testwebapp.com" -SolutionPath "C:\TestSolutionLocation"`
+`Deploy-SPSolution -SolutionFileName "Test.wsp" -WebAppUrl "http:\\testwebapp.com" -SolutionPath "C:\TestSolutionLocation"`
